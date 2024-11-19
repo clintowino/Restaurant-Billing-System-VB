@@ -1,0 +1,24 @@
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.vbproj.AssemblyReference.cache
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL_PROJECT_VB.Form1.resources
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL_PROJECT_VB.Resources.resources
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.vbproj.GenerateResource.cache
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.vbproj.CoreCompileInputs.cache
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.exe.config
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.exe
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.pdb
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.xml
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.exe
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.xml
+C:\Users\user 1\source\repos\Final project VB\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.pdb
+D:\Desktop\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.exe.config
+D:\Desktop\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.exe
+D:\Desktop\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.pdb
+D:\Desktop\FINAL PROJECT VB\bin\Debug\FINAL PROJECT VB.xml
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.vbproj.AssemblyReference.cache
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL_PROJECT_VB.Form1.resources
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL_PROJECT_VB.Resources.resources
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.vbproj.GenerateResource.cache
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.vbproj.CoreCompileInputs.cache
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.exe
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.xml
+D:\Desktop\FINAL PROJECT VB\obj\Debug\FINAL PROJECT VB.pdb

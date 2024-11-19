@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\GROUP 8 SCO 202 PROJECT\\RESTAURANT BILLING SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCF4DD4-FA20-4C26-9B69-487F9A3EBC99}|FINAL PROJECT VB.vbproj|d:\\desktop\\group 8 sco 202 project\\restaurant billing system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CCF4DD4-FA20-4C26-9B69-487F9A3EBC99}|FINAL PROJECT VB.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCF4DD4-FA20-4C26-9B69-487F9A3EBC99}|FINAL PROJECT VB.vbproj|D:\\Desktop\\GROUP 8 SCO 202 PROJECT\\RESTAURANT BILLING SYSTEM\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CCF4DD4-FA20-4C26-9B69-487F9A3EBC99}|FINAL PROJECT VB.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Desktop\\GROUP 8 SCO 202 PROJECT\\RESTAURANT BILLING SYSTEM\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Desktop\\GROUP 8 SCO 202 PROJECT\\RESTAURANT BILLING SYSTEM\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T12:59:27.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Desktop\\GROUP 8 SCO 202 PROJECT\\RESTAURANT BILLING SYSTEM\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Desktop\\GROUP 8 SCO 202 PROJECT\\RESTAURANT BILLING SYSTEM\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T12:27:18.425Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
